@@ -1,5 +1,5 @@
 ### Description
-![image|690x229](upload://m8zHXm8xT7GmuBpA8iYXPaniPZ8.jpeg)
+![image|690x229](https://media.discordapp.net/attachments/1137827541965611068/1282682686367993918/image.png?ex=66e03ed7&is=66deed57&hm=6285626b88bf0e0ca6415d25ae24d565a1b923f8ed4c0af1750f7e4ffd67425d&=&format=webp&quality=lossless&width=1440&height=478)
 
 **HUD Display Script**
 
